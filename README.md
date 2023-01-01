@@ -2,7 +2,7 @@
 
 ## On-going development
 
--[Synthesizer](https://github.com/rabidaudio/synthesizer) Custom Eurorack synthesizer modules. See [my blog](https://rabid.audio/projects/synth) for details
+- [Synthesizer](https://github.com/rabidaudio/synthesizer) Custom Eurorack synthesizer modules. See [my blog](https://rabid.audio/projects/synth) for details.
 - [Custom guitar and bass stompboxes](https://github.com/rabidaudio/effects)
 - an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
 - [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
@@ -13,11 +13,11 @@
 - [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage.
 - [wise](https://github.com/rabidaudio/wise) An alternative cli for `git` which is easier for beginners to learn and use.
 
-## Complete (or complete enough) and actively maintained
+## Complete (or close) and actively maintained
 
 - [swank](https://github.com/rabidaudio/swank) - simple command line tool for serving from a local directory
 - [Simple Schema Serializers](https://github.com/fixdauto/simple_schema_serializers), a Ruby DSL for declaring JSON output schemas, faster and more featured than ActiveModelSerializers
-- Several [Singer taps]:
+- Several [Singer taps](https://hub.meltano.com/singer/spec/):
   - [tap-lastfm](https://github.com/rabidaudio/tap-lastfm)
   - [tap-lichess](https://github.com/rabidaudio/tap-lichess)
   - [tap-newrelic](https://github.com/fixdauto/tap-newrelic)
@@ -28,8 +28,6 @@
 - [an analysis](https://github.com/rabidaudio/pwd) of brute-forcing zip file passwords in Go
 - [an analysis](https://github.com/rabidaudio/alphabetical-words) of all the words in the English language who's letters are in alphabetical order, such as "almost". The longest is a tie between "billowy" and "beefily".
 
-## [Hackathon projects](hackathons.md)
-
 ## Talks
 
 - [Kotlin Coroutines in Android](https://github.com/rabidaudio/kotlin-coroutines-android)
@@ -38,5 +36,7 @@
 - [Custom modular synthesizer](https://github.com/rabidaudio/synthesizer/tree/master/_old/presentation)
   - Atlanta Tech Demo Night - Atlanta, GA, May 2015
 - [Node Streams](https://github.com/rabidaudio/stream-talk)
+
+## [Hackathon projects](hackathons.md)
 
 ## [Old projects](archived.md)
