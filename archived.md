@@ -3,8 +3,10 @@
 ## Apps
 
 - [wkipe](https://github.com/rabidaudio/wkipe), a URL shortener for Wikipedia
-- A realtime collaborative document editor](https://github.com/rabidaudio/groupedit), like Google Docs
+- [a realtime collaborative document editor](https://github.com/rabidaudio/groupedit), like Google Docs
+- [an attempt](https://github.com/rabidaudio/timegrapher) to create a timegrapher (a device that measures the accuracy of a watch) from a video of the movement using OpenCV. Most timegraphers instead use a microphone and measure clicks
 - [a rails app](https://github.com/rabidaudio/lfm-age-stats) that shows stats about my friends' listening habits from [Last.FM](https://last.fm)
+- [a script](https://github.com/rabidaudio/lfmviz) to visualize Last.FM plays by time of day
 - - [Artemis](https://github.com/rabidaudio/artemis), a music player app for Android
 - [a manual Last.FM scrobbler app](https://github.com/rabidaudio/VinylScrobbler) for Android, for tracking listens on physical media
 - [FriendRM](https://github.com/rabidaudio/friendrm), a CRM for keeping up with your friends
@@ -43,13 +45,18 @@
 
 ## Games
 
-Every time I've sat down to write a game, I end up trying to write a game engine instead. Here are a few attempts, and libraries related to them:
+Every time I've sat down to write a game, I end up trying to write a game engine or library instead. Here are a few attempts:
 
 - [unamed](https://github.com/rabidaudio/tactics), a Fire Emblem-like tatics game written in Go
+- [unnamed zombie game](https://github.com/rabidaudio/zombie) that I've wanted to build for years, also in Go
 - [Kards](https://github.com/rabidaudio/kards), an engine for creating card games and AIs in Kotlin
 - [dungeon generator](https://github.com/rabidaudio/dungeon-generator), a coffeescript library for generating random 2d dungeon maps
+- [tools for analyzing and playing chess](https://github.com/rabidaudio/chess) in Go
+- [an attempt](https://github.com/rabidaudio/sample-kotlin-game) to get Allegro working from Kotlin Native
 - [backgammon](https://github.com/rabidaudio/backgammon)
+- [sudoku](https://github.com/rabidaudio/sudoku)
 - [untitled js game](https://github.com/rabidaudio/game1)
+- [untitled go game](https://github.com/rabidaudio/gogame)
 
 ## Corsework
 
