@@ -47,8 +47,8 @@
 
 Every time I've sat down to write a game, I end up trying to write a game engine or library instead. Here are a few attempts:
 
-- [unamed](https://github.com/rabidaudio/tactics), a Fire Emblem-like tatics game written in Go
-- [unnamed zombie game](https://github.com/rabidaudio/zombie) that I've wanted to build for years, also in Go
+- [a Fire Emblem-like tatics game](https://github.com/rabidaudio/tactics) written in Go
+- [an unnamed zombie game](https://github.com/rabidaudio/zombie) that I've wanted to build for years, also in Go
 - [Kards](https://github.com/rabidaudio/kards), an engine for creating card games and AIs in Kotlin
 - [dungeon generator](https://github.com/rabidaudio/dungeon-generator), a coffeescript library for generating random 2d dungeon maps
 - [tools for analyzing and playing chess](https://github.com/rabidaudio/chess) in Go
