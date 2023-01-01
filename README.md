@@ -7,11 +7,21 @@
 - an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
 - [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
 - [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
+- [an LED wall clock](https://github.com/rabidaudio/led-clock)
 
 ## Ideas
 
-- [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage.
-- [wise](https://github.com/rabidaudio/wise) An alternative cli for `git` which is easier for beginners to learn and use.
+If only I could find the time...
+
+- [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage
+- [wise](https://github.com/rabidaudio/wise) An alternative cli for `git` which is easier for beginners to learn and use
+- [an app](https://github.com/rabidaudio/filter-calculator) to assist in analog filter design
+- [chrt](https://github.com/rabidaudio/chrt), a command-line tool for graphing data from stdin
+- [a mobile app](https://github.com/rabidaudio/travelunits) for easy unit conversions while traveling
+- [a wearable metronome](https://github.com/rabidaudio/haptic-metronome) that vibrates to aid in practicing
+- [a VST plugin](https://github.com/rabidaudio/soft-focus) recreating the "soft focus" preset of the Yamaha FX500 (a shoegaze sound popularized by Slowdive)
+- [an SMD reflow oven](https://github.com/rabidaudio/reflow-oven) from an air frier
+
 
 ## Complete (or close) and actively maintained
 
@@ -22,11 +32,13 @@
   - [tap-lichess](https://github.com/rabidaudio/tap-lichess)
   - [tap-newrelic](https://github.com/fixdauto/tap-newrelic)
 - [logic](https://github.com/rabidaudio/midi-voicesteal) for voice-stealing a limited number of MIDI channels for a MIDI-to-CV module
+- [a surface-mount Arduino clone board](https://github.com/rabidaudio/bareduino) for testing my reflow oven
 
 ## Analysis / Experiments
 
 - [an analysis](https://github.com/rabidaudio/pwd) of brute-forcing zip file passwords in Go
 - [an analysis](https://github.com/rabidaudio/alphabetical-words) of all the words in the English language who's letters are in alphabetical order, such as "almost". The longest is a tie between "billowy" and "beefily".
+- [a proof by brute force](https://github.com/rabidaudio/10958-problem) of the [10958 problem](https://arxiv.org/abs/1302.1479)
 
 ## Talks
 
