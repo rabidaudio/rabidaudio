@@ -1,4 +1,4 @@
-# No-longer maintained projects
+# Abandoned or no-longer maintained projects
 
 ## Apps
 
@@ -7,7 +7,7 @@
 - [an attempt](https://github.com/rabidaudio/timegrapher) to create a timegrapher (a device that measures the accuracy of a watch) from a video of the movement using OpenCV. Most timegraphers instead use a microphone and measure clicks
 - [a rails app](https://github.com/rabidaudio/lfm-age-stats) that shows stats about my friends' listening habits from [Last.FM](https://last.fm)
 - [a script](https://github.com/rabidaudio/lfmviz) to visualize Last.FM plays by time of day
-- - [Artemis](https://github.com/rabidaudio/artemis), a music player app for Android
+- [Artemis](https://github.com/rabidaudio/artemis), a music player app for Android
 - [a manual Last.FM scrobbler app](https://github.com/rabidaudio/VinylScrobbler) for Android, for tracking listens on physical media
 - [FriendRM](https://github.com/rabidaudio/friendrm), a CRM for keeping up with your friends
 - [Utterson](https://github.com/rabidaudio/Utterson), a static blog generator
@@ -24,9 +24,9 @@
 
 - [a colorful pixel EQ visualizer](https://github.com/rabidaudio/equalizer-display) for playing music over Bluetooth
 - [an airhorn sound effect](https://github.com/rabidaudio/new-order) that would go off every time FIXD Automotive received a new order
-- [a silly little toy](https://github.com/rabidaudio/dizzy-cat) that meows when you turn it upside down
+- [a silly toy](https://github.com/rabidaudio/dizzy-cat) that meows when you turn it upside down
 - [a 3d-printed replacement](https://github.com/rabidaudio/washer-handle) for my broken washing machine handle
-- [an ultraviolet LED skincare device](https://github.com/rabidaudio/skin-therapy) that some doctor wanted to prototype
+- [an ultraviolet LED skincare device](https://github.com/rabidaudio/skin-therapy) that a local doctor wanted to prototype
 
 ## Libraries
 
@@ -50,7 +50,7 @@ Every time I've sat down to write a game, I end up trying to write a game engine
 - [a Fire Emblem-like tatics game](https://github.com/rabidaudio/tactics) written in Go
 - [an unnamed zombie game](https://github.com/rabidaudio/zombie) that I've wanted to build for years, also in Go
 - [Kards](https://github.com/rabidaudio/kards), an engine for creating card games and AIs in Kotlin
-- [dungeon generator](https://github.com/rabidaudio/dungeon-generator), a coffeescript library for generating random 2d dungeon maps
+- [a coffeescript library](https://github.com/rabidaudio/dungeon-generator) for generating random 2d dungeon maps
 - [tools for analyzing and playing chess](https://github.com/rabidaudio/chess) in Go
 - [an attempt](https://github.com/rabidaudio/sample-kotlin-game) to get Allegro working from Kotlin Native
 - [backgammon](https://github.com/rabidaudio/backgammon)
@@ -60,7 +60,7 @@ Every time I've sat down to write a game, I end up trying to write a game engine
 
 ## Corsework
 
-- [Senior Design 2015](https://github.com/rabidaudio/HapTechSeniorDesign)
+- [ECE Senior Design (Spring 2015)](https://github.com/rabidaudio/HapTechSeniorDesign)
 - [ECE 2035 Final Project (Fall 2013)](https://github.com/rabidaudio/angry-monkeys)
-- [a script for lining MATLAB homework](https://github.com/rabidaudio/matlabhwfix)
+- [a script for linting MATLAB homework](https://github.com/rabidaudio/matlabhwfix)
 - [tools for writing homework in LaTeX](https://github.com/rabidaudio/latex-homework-base)
