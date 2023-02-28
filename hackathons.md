@@ -8,8 +8,8 @@ These are of dubious quality and completeness. This list is certainly incomplete
 - **Music Hack ATL 2014** [rockscor](https://github.com/rabidaudio/rockscor), a data aggregator for bands :trophy: Winner
 - **HackDuke 2014** [TinderForGmail](https://github.com/rabidaudio/TinderForGmail), a Tinder-like UI for quickly organizing email (predated Google Inbox)
 - **HackBurdell 2014** [CarMediaPlayer](https://github.com/rabidaudio/CarMediaPlayer) :trophy: Best Hardware
-- Static Showdown 2015: [QuickComments.js](https://github.com/rabidaudio/ss15-team32), a drop-in comments library similar to Disqus :trophy: Finalist
-- **Guthman/Moog Hackathon 2015** [beach balls](https://github.com/rabidaudio/guthman_challenge) Inertial sensors attached to beach balls bouncing around a concert crowd to generate synth CVs
+- **Static Showdown 2015** [QuickComments.js](https://github.com/rabidaudio/ss15-team32), a drop-in comments library similar to Disqus :trophy: Finalist
+- **Guthman/Moog Hackathon 2015** [Inertial sensors attached to beach balls](https://github.com/rabidaudio/guthman_challenge) bouncing around a concert crowd to generate synth CVs
 - **ATDC Financial Technology Hackathon 2015** [FingTech](https://github.com/rabidaudio/FingTech), iOS app for digital payments
 
 ## Code For Atlanta hack nights
