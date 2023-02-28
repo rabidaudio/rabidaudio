@@ -2,8 +2,8 @@
 
 ## On-going development
 
-- [Synthesizer](https://github.com/rabidaudio/synthesizer) Custom Eurorack synthesizer modules. See [my blog](https://rabid.audio/projects/synth) for details.
-- [Custom guitar and bass stompboxes](https://github.com/rabidaudio/effects)
+- [Custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
+- [Guitar and bass stompboxes](https://github.com/rabidaudio/effects)
 - an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
 - [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
 - [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
@@ -25,7 +25,7 @@ If only I could find the time...
 
 ## Complete (or close) and actively maintained
 
-- [swank](https://github.com/rabidaudio/swank) - simple command line tool for serving from a local directory
+- [swank](https://github.com/rabidaudio/swank) - simple command line tool for serving HTTP from a local directory
 - [Simple Schema Serializers](https://github.com/fixdauto/simple_schema_serializers), a Ruby DSL for declaring JSON output schemas, faster and more featured than ActiveModelSerializers
 - Several [Singer taps](https://hub.meltano.com/singer/spec/):
   - [tap-lastfm](https://github.com/rabidaudio/tap-lastfm)
@@ -37,7 +37,7 @@ If only I could find the time...
 ## Analysis / Experiments
 
 - [an analysis](https://github.com/rabidaudio/pwd) of brute-forcing zip file passwords in Go
-- [an analysis](https://github.com/rabidaudio/alphabetical-words) of all the words in the English language who's letters are in alphabetical order, such as "almost". The longest is a tie between "billowy" and "beefily".
+- [an analysis](https://github.com/rabidaudio/alphabetical-words) of all the words in the English language whose letters are in alphabetical order, such as "almost". The longest is a tie between "billowy" and "beefily".
 - [a proof by brute force](https://github.com/rabidaudio/10958-problem) of the [10958 problem](https://arxiv.org/abs/1302.1479)
 
 ## Talks
