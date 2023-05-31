@@ -14,7 +14,8 @@
 If only I could find the time...
 
 - [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage
-- [wise](https://github.com/rabidaudio/wise) An alternative cli for `git` which is easier for beginners to learn and use
+- [wise](https://github.com/rabidaudio/wise), an alternative cli for `git` which is easier for beginners to learn and use
+- [marta.js](https://github.com/codeforatlanta/marta-js), a browser-friendly library for getting both realtime and static route information for Atlanta's transit system, MARTA
 - [an app](https://github.com/rabidaudio/filter-calculator) to assist in analog filter design
 - [chrt](https://github.com/rabidaudio/chrt), a command-line tool for graphing data from stdin
 - [a mobile app](https://github.com/rabidaudio/travelunits) for easy unit conversions while traveling
