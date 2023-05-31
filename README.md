@@ -31,8 +31,10 @@ If only I could find the time...
   - [tap-lastfm](https://github.com/rabidaudio/tap-lastfm)
   - [tap-lichess](https://github.com/rabidaudio/tap-lichess)
   - [tap-newrelic](https://github.com/fixdauto/tap-newrelic)
-- [logic](https://github.com/rabidaudio/midi-voicesteal) for voice-stealing a limited number of MIDI channels for a MIDI-to-CV module
 - [a surface-mount Arduino clone board](https://github.com/rabidaudio/bareduino) for testing my reflow oven
+- [a module](https://github.com/rabidaudio/clock2midi) for converting CV clock signals to MIDI clocks
+- [a mod](https://github.com/rabidaudio/niftykeyz-jackboard-mini) for the [NiftyKeyz modular keyboard](https://www.cre8audio.com/niftykeyz) to shrink the output board
+- [logic](https://github.com/rabidaudio/midi-voicesteal) for voice-stealing a limited number of MIDI channels for a MIDI-to-CV module
 
 ## Analysis / Experiments
 
