@@ -2,12 +2,15 @@
 
 ## On-going development
 
-- [Custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
-- [Guitar and bass stompboxes](https://github.com/rabidaudio/effects)
+- [custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
+- [guitar and bass stompboxes](https://github.com/rabidaudio/effects)
 - an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
 - [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
 - [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
 - [an LED wall clock](https://github.com/rabidaudio/led-clock)
+- [a MIDI script for vocal warm-ups](https://github.com/rabidaudio/warm-arps)
+
+Also contributing to [a friend's programmable display earrings](https://github.com/johnMamish/boring-ahh), see [boringg.art](https://boringg.art).
 
 ## Ideas
 
@@ -28,6 +31,7 @@ If only I could find the time...
 
 - [swank](https://github.com/rabidaudio/swank) - simple command line tool for serving HTTP from a local directory
 - [Simple Schema Serializers](https://github.com/fixdauto/simple_schema_serializers), a Ruby DSL for declaring JSON output schemas, faster and more featured than ActiveModelSerializers
+- [custom, private feeds for BlueSky](https://github.com/rabidaudio/bsky-apps)
 - Several [Singer taps](https://hub.meltano.com/singer/spec/):
   - [tap-lastfm](https://github.com/rabidaudio/tap-lastfm)
   - [tap-lichess](https://github.com/rabidaudio/tap-lichess)
@@ -36,6 +40,7 @@ If only I could find the time...
 - [a module](https://github.com/rabidaudio/clock2midi) for converting CV clock signals to MIDI clocks
 - [a mod](https://github.com/rabidaudio/niftykeyz-jackboard-mini) for the [NiftyKeyz modular keyboard](https://www.cre8audio.com/niftykeyz) to shrink the output board
 - [logic](https://github.com/rabidaudio/midi-voicesteal) for voice-stealing a limited number of MIDI channels for a MIDI-to-CV module
+- [a script](https://github.com/rabidaudio/notion-import-record) for importing data into one of my Notion apps
 
 ## Analysis / Experiments
 
