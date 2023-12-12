@@ -1,3 +1,5 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=rabidaudio&custom_title=GitHub%20Stats)
+
 # Projects
 
 ## On-going development
