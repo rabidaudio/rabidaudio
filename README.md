@@ -6,11 +6,10 @@
 
 - [custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
 - [guitar and bass stompboxes](https://github.com/rabidaudio/effects)
+- a [web app](https://github.com/rabidaudio/fourth-strike) for managing the accounting and royalty payments for [Fourth Strike](https://fourth-strike.bandcamp.com/), a record label
 - an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
 - [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
-- [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
 - [an LED wall clock](https://github.com/rabidaudio/led-clock)
-- [a MIDI script for vocal warm-ups](https://github.com/rabidaudio/warm-arps)
 
 Also contributing to [a friend's programmable display earrings](https://github.com/johnMamish/boring-ahh), see [boringg.art](https://boringg.art).
 
@@ -23,6 +22,7 @@ If only I could find the time...
 - [marta.js](https://github.com/codeforatlanta/marta-js), a browser-friendly library for getting both realtime and static route information for Atlanta's transit system, MARTA
 - [an app](https://github.com/rabidaudio/filter-calculator) to assist in analog filter design
 - [chrt](https://github.com/rabidaudio/chrt), a command-line tool for graphing data from stdin
+- [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
 - [a mobile app](https://github.com/rabidaudio/travelunits) for easy unit conversions while traveling
 - [a wearable metronome](https://github.com/rabidaudio/haptic-metronome) that vibrates to aid in practicing
 - [a VST plugin](https://github.com/rabidaudio/soft-focus) recreating the "soft focus" preset of the Yamaha FX500 (a shoegaze sound popularized by Slowdive)
@@ -38,6 +38,7 @@ If only I could find the time...
   - [tap-lastfm](https://github.com/rabidaudio/tap-lastfm)
   - [tap-lichess](https://github.com/rabidaudio/tap-lichess)
   - [tap-newrelic](https://github.com/fixdauto/tap-newrelic)
+- [a MIDI script for vocal warm-ups](https://github.com/rabidaudio/warm-arps)
 - [a surface-mount Arduino clone board](https://github.com/rabidaudio/bareduino) for testing my reflow oven
 - [a module](https://github.com/rabidaudio/clock2midi) for converting CV clock signals to MIDI clocks
 - [a mod](https://github.com/rabidaudio/niftykeyz-jackboard-mini) for the [NiftyKeyz modular keyboard](https://www.cre8audio.com/niftykeyz) to shrink the output board
