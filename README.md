@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=rabidaudio&custom_title=GitHub%20Stats)
+![github stats](./profile/stats.svg)
 
 # Projects
 
