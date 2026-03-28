@@ -2,36 +2,9 @@
 
 # Projects
 
-## On-going development
-
-- [custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
-- [guitar and bass stompboxes](https://github.com/rabidaudio/effects)
-- a [cheap static site hosting service](https://github.com/rabidaudio/chicy.online)
-- a [web app](https://github.com/rabidaudio/fourth-strike) for managing the accounting and royalty payments for [Fourth Strike](https://fourth-strike.bandcamp.com/), a record label
-- an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
-- [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
-
-Also contributing to [a friend's programmable display earrings](https://github.com/johnMamish/boring-ahh), see [boringg.art](https://boringg.art).
-
-## Ideas
-
-If only I could find the time...
-
-- [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage
-- [wise](https://github.com/rabidaudio/wise), an alternative cli for `git` which is easier for beginners to learn and use
-- [marta.js](https://github.com/codeforatlanta/marta-js), a browser-friendly library for getting both realtime and static route information for Atlanta's transit system, MARTA
-- [an app](https://github.com/rabidaudio/filter-calculator) to assist in analog filter design
-- [chrt](https://github.com/rabidaudio/chrt), a command-line tool for graphing data from stdin
-- [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
-- [a mobile app](https://github.com/rabidaudio/travelunits) for easy unit conversions while traveling
-- [a wearable metronome](https://github.com/rabidaudio/haptic-metronome) that vibrates to aid in practicing
-- [a VST plugin](https://github.com/rabidaudio/soft-focus) recreating the "soft focus" preset of the Yamaha FX500 (a shoegaze sound popularized by Slowdive)
-- [an SMD reflow oven](https://github.com/rabidaudio/reflow-oven) from an air frier
-- [an LED wall clock](https://github.com/rabidaudio/led-clock)
-
-
 ## Complete (or close) and actively maintained
 
+- a [cheap static site hosting service](https://github.com/rabidaudio/chicy.online)
 - [swank](https://github.com/rabidaudio/swank) - simple command line tool for serving HTTP from a local directory
 - [Simple Schema Serializers](https://github.com/fixdauto/simple_schema_serializers), a Ruby DSL for declaring JSON output schemas, faster and more featured than ActiveModelSerializers
 - Several [Singer taps](https://hub.meltano.com/singer/spec/):
@@ -44,11 +17,36 @@ If only I could find the time...
 - [logic](https://github.com/rabidaudio/midi-voicesteal) for voice-stealing a limited number of MIDI channels for a MIDI-to-CV module
 - [a script](https://github.com/rabidaudio/notion-import-record) for importing data into one of my Notion apps
 
+
+## On-going development
+
+- [custom Eurorack synthesizer modules](https://github.com/rabidaudio/synthesizer). See [my blog](https://rabid.audio/projects/synth) for details.
+- [guitar and bass stompboxes](https://github.com/rabidaudio/effects)
+- a [web app](https://github.com/rabidaudio/fourth-strike) for managing the accounting and royalty payments for [Fourth Strike](https://fourth-strike.bandcamp.com/), a record label
+- [a VST software synth](https://github.com/rabidaudio/gameboy-synth) wrapping the GameBoy APU
+
+<!-- Also contributing to [a friend's programmable display earrings](https://github.com/johnMamish/boring-ahh), see [boringg.art](https://boringg.art). -->
+
+## Ideas
+
+If only I could find the time...
+
+- [Torres](https://github.com/rabidaudio/Torres), a modern programming language for embeded platforms. Still in the language design stage
+- [wise](https://github.com/rabidaudio/wise), an alternative cli for `git` which is easier for beginners to learn and use
+- [marta.js](https://github.com/codeforatlanta/marta-js), a browser-friendly library for getting both realtime and static route information for Atlanta's transit system, MARTA
+- an open-source ["modern data stack" pipeline](https://github.com/rabidaudio/selfdata) collecting and reporting on my personal life and habits
+- [an app](https://github.com/rabidaudio/filter-calculator) to assist in analog filter design
+- [chrt](https://github.com/rabidaudio/chrt), a command-line tool for graphing data from stdin
+- [a VST plugin](https://github.com/rabidaudio/soft-focus) recreating the "soft focus" preset of the Yamaha FX500 (a shoegaze sound popularized by Slowdive)
+- [an LED wall clock](https://github.com/rabidaudio/led-clock)
+
+
 ## Analysis / Experiments
 
 - [an analysis](https://github.com/rabidaudio/pwd) of brute-forcing zip file passwords in Go
 - [an analysis](https://github.com/rabidaudio/alphabetical-words) of all the words in the English language whose letters are in alphabetical order, such as "almost". The longest is a tie between "billowy" and "beefily".
 - [a proof by brute force](https://github.com/rabidaudio/10958-problem) of the [10958 problem](https://arxiv.org/abs/1302.1479)
+- [an attempt](https://github.com/rabidaudio/timegrapher) to create a timegrapher (a device that measures the accuracy of a watch) from a video of the movement using OpenCV. Most timegraphers instead use a microphone and measure clicks
 
 ## Talks
 

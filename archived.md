@@ -4,8 +4,9 @@
 
 - [wkipe](https://github.com/rabidaudio/wkipe), a URL shortener for Wikipedia
 - [a realtime collaborative document editor](https://github.com/rabidaudio/groupedit), like Google Docs
-- [an attempt](https://github.com/rabidaudio/timegrapher) to create a timegrapher (a device that measures the accuracy of a watch) from a video of the movement using OpenCV. Most timegraphers instead use a microphone and measure clicks
+- [a web IDE for annotating chess games](https://github.com/rabidaudio/pgn-ide)
 - [custom, private feeds for BlueSky](https://github.com/rabidaudio/bsky-apps)
+- [a mobile app](https://github.com/rabidaudio/travelunits) for easy unit conversions while traveling
 - [a rails app](https://github.com/rabidaudio/lfm-age-stats) that shows stats about my friends' listening habits from [Last.FM](https://last.fm)
 - [a script](https://github.com/rabidaudio/lfmviz) to visualize Last.FM plays by time of day
 - [Artemis](https://github.com/rabidaudio/artemis), a music player app for Android
@@ -23,7 +24,9 @@
 
 ## Hardware
 
+- [an SMD reflow oven](https://github.com/rabidaudio/reflow-oven) from an air frier
 - [a surface-mount Arduino clone board](https://github.com/rabidaudio/bareduino) for testing my reflow oven
+- [a wearable metronome](https://github.com/rabidaudio/haptic-metronome) that vibrates to aid in practicing
 - [a colorful pixel EQ visualizer](https://github.com/rabidaudio/equalizer-display) for playing music over Bluetooth
 - [an airhorn sound effect](https://github.com/rabidaudio/new-order) that would go off every time FIXD Automotive received a new order
 - [a silly toy](https://github.com/rabidaudio/dizzy-cat) that meows when you turn it upside down
